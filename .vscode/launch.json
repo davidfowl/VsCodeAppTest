@@ -1,0 +1,12 @@
+{
+	"version": "0.1.0",
+	// List of configurations. Add new configurations or edit existing ones.
+	 "configurations": [
+         {
+            "name": "Run Mono",
+            "type": "mono",
+            "program": "/Users/dfowler/dev/git/ProjectK/newapp/bin/Debug/net451/newapp.exe",
+            "args": ["--server", "Microsoft.AspNet.Server.Kestrel"]
+         }
+	]
+}
