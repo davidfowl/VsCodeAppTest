@@ -1,6 +1,5 @@
 {
     "version": "1.0.1-*",
-    "compilerName": "mcs",
     "compilationOptions": {
         "emitEntryPoint": true
     },
@@ -8,7 +7,6 @@
         "Microsoft.AspNet.Server.Kestrel": "1.0.0-*"
     },
     "frameworks": {
-        "net451": { },
         "dnxcore50": { 
             "dependencies": {
                 "System.Reflection.TypeExtensions": "4.1.0-*"
